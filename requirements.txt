@@ -1,0 +1,22 @@
+# Core Python dependencies
+numpy
+pandas
+matplotlib
+
+# Machine learning & preprocessing
+scikit-learn
+
+# Deep learning
+tensorflow
+keras
+
+# Experiment tracking / pipelines
+zenml
+mlflow
+pydantic
+
+# Computer Vision
+opencv-python
+
+# Utilities
+requests
